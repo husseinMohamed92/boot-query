@@ -15,7 +15,29 @@
 
     
     <body>
-	  	<button ></button>
+	  	
+	  	<div class="container">
+	  		
+	  		<div class="row">
+	  			
+	  			
+
+
+	  			<div class="col-lg-4 push-lg-8">
+	  				<div class="prod">Div1</div>
+	  			</div>
+
+	  			<div class="col-lg-8 pull-lg-4">
+	  				<div class="prod">Div2</div>
+	  			</div>
+
+	  			
+	  		
+	  			
+	  		</div>
+	  		
+
+	  	</div>
 	    
 
         <script src="js/jquery-3.2.1.js"></script>
